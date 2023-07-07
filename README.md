@@ -20,6 +20,8 @@ Stack ✅
 
 Queue ✅
 
+Heap
+
 Tree
 
 Graph
