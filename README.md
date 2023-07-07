@@ -8,17 +8,17 @@ List
 
 String
 
-Linked List
-
-Stack
-
-Queue
-
 Dictionary
 
 Set
 
 Tuple
+
+Linked List ✅
+
+Stack ✅
+
+Queue ✅
 
 Tree
 
