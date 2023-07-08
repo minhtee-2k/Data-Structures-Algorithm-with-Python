@@ -1,6 +1,6 @@
 # Data Structures
 
-Revising the implementation of every data structure. Materials are based on many online open sources, like GeeksforGeeks, Leetcode, etc. (to name a few)
+Revising the implementation of every data structure. Materials are based on various online open sources, like GeeksforGeeks, Leetcode, etc. (to name a few)
 
 Topics covered:
 
